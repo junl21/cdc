@@ -3,9 +3,12 @@
 This is a PyTorch implementation of the paper ["Weakly supervised histopathological image representation
 learning based on contrastive dynamic clustering"](). 
 ```angular2html
-@article{liweakly,
-  title={Weakly supervised histopathological image representation learning based on contrastive dynamic clustering},
-  author={Li, Jun and Jiang, Zhiguo and Zheng, Yushan and Zhang, Haopeng and Shi, Jun and Hu, Dingyi and Luo, Wei and Jiang, Zhongmin and Xue, Chenghai}
+@inproceedings{li2022weakly,
+  author    = {Jun Li, Zhiguo Jiang, Yushan Zheng, Haopeng Zhang, Jun Shi, Dingyi Hu,
+               Wei Luo, Zhongmin Jiang, and Chenghai Xue},
+  title     = {Weakly Supervised Histopathological Image Representation Learning based on Contrastive Dynamic Clustering},
+  booktitle = {SPEI Medical Imaging 2022},
+  year      = {2022},
 }
 ```
 Our code is modified from repository [simsiam](https://github.com/facebookresearch/simsiam).
