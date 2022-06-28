@@ -1,7 +1,7 @@
 # cdc
 
 This is a PyTorch implementation of the paper ["Weakly supervised histopathological image representation
-learning based on contrastive dynamic clustering"](). 
+learning based on contrastive dynamic clustering"](https://doi.org/10.1117/12.2611418). 
 ```angular2html
 @inproceedings{li2022weakly,
   author    = {Jun Li, Zhiguo Jiang, Yushan Zheng, Haopeng Zhang, Jun Shi, Dingyi Hu,
